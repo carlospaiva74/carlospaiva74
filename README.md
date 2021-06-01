@@ -2,7 +2,7 @@
 
 I am a web developer who builds platforms tailored to the needs of each project. I love doing all my projects with the Laravel framework, a framework that is personally fascinating and very powerful for making custom solutions for each project.
 
-- 🔭 I’m currently working freelance
+- 🔭 I’m currently working freelancer
 - 🌱 I’m currently learning mobile development and English
 <!--
 **carlospaiva74/carlospaiva74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
