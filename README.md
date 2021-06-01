@@ -1,5 +1,6 @@
 ### Hi, I'm Carlos 👋
 
+I am a web developer making platforms tailored according to the need of each project. I love doing all my projects with the Laravel framework, a framework that is personally fascinating and very powerful to make customized solutions for each project.
 <!--
 **carlospaiva74/carlospaiva74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
